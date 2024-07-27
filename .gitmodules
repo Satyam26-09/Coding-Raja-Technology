@@ -1,0 +1,6 @@
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/Satyam26-09/shop-ease.git
+[submodule "blog-app"]
+	path = blog-app
+	url = https://github.com/Satyam26-09/Blog-App.git
